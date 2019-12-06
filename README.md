@@ -1,5 +1,5 @@
-# SymmetricRL
-
+<h1 align="center">On Learning Symmetric Locomotion</h1>
+This repo contains the code-base for the paper.
 
 ## Installation
 
@@ -43,7 +43,6 @@ The `w2_net_experiment` is the name of the experiment. This command will create 
 - `models`: a directory containing the saved models
 
 In case you use [Compute Canada](http://computecanada.ca) you also use the other scripts like `cedar_run_playground_train.sh` to create a batch job. These scripts use the same argument sctructure but also allow you to run the same task with multiple replicates using the `num_replicates` variable.
-
 
 ## Plotting Results
 
